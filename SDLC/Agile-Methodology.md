@@ -44,7 +44,7 @@ Agile is not a single methodology, but rather a set of values and principles tha
 
 ## Scrum Framework 🏉
 
-The Scrum framework consists of three roles, three ceremonies, and three artifacts.
+The Scrum framework consists of three roles, five ceremonies, and artifacts.
 
 ### Roles 👥
 
@@ -80,6 +80,16 @@ The Scrum framework consists of three roles, three ceremonies, and three artifac
 - Time-boxed event to review the product increment
 - Stakeholders provide feedback, and the team adapts
 
+#### 4. Sprint Retrospective 🔄
+
+- Time-boxed event to reflect on the sprint and identify improvements
+- Team discusses what went well, what didn't, and how to improve
+
+#### 5. Backlog Refinement 📋
+
+- Ongoing process to keep the product backlog updated
+- Team reviews and revises items in the backlog to ensure they are ready for future sprints
+
 ### Artifacts 📦
 
 #### 1. Product Backlog 📃
@@ -96,6 +106,8 @@ The Scrum framework consists of three roles, three ceremonies, and three artifac
 
 - Sum of all product backlog items completed during a sprint
 - Reviewed during the Sprint Review ceremony
+
+**FYI**: There are additional extended artifacts in Scrum, such as the Definition of Done and Burn-Down Chart. For more information, check the further reading section.
 
 ## Example 🏠
 
@@ -119,3 +131,17 @@ This example illustrates how the Scrum framework can be applied to a complex pro
 - **Increased Transparency** 🔎: Agile's emphasis on regular progress updates and open communication ensures that stakeholders are informed and aligned throughout the project.
 - **Risk Reduction** ⚠️: Agile's iterative approach helps identify and mitigate risks earlier in the project, reducing the likelihood of project failures.
 - **Improved Team Morale** 💪: Agile's focus on teamwork, recognition, and continuous improvement boosts team morale and motivation, leading to a more productive and engaged team.
+
+## Popular Agile-Scrum Tools 🛠️
+
+- [Jira by Atlassian](https://www.atlassian.com/software/jira) - Agile project management tool
+- [Confluence by Atlassian - Documentation](https://www.atlassian.com/software/confluence)
+- [Trello](https://trello.com/tour) - Visual collaboration tool for planning tasks and projects
+
+## Further Reading 📚
+
+- [Atlassian: What is Agile?](https://www.atlassian.com/agile)
+- [Atlassian: Scrum](https://www.atlassian.com/agile/scrum)
+- [Atlassian: Agile Advantage](https://www.atlassian.com/agile/advantage)
+- [Atlassian: Kanban](https://www.atlassian.com/agile/kanban)
+- [Atlassian: Scrum Artifacts](https://www.atlassian.com/agile/scrum/artifacts)
